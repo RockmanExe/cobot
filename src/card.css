@@ -1,0 +1,24 @@
+.infocard {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* border: 5px solid black; */
+}
+
+.actualinfocard {
+    display:flex;
+    flex-direction: column;
+    margin: 30px 30px 50px 0px;
+    border: 10px solid #800020;
+    height: 470px;
+    width: 260px;
+}
+
+.actualinfocard img {
+    height: 280px;
+    border-bottom: 5px solid black;
+}
+
+/* .actualinfocard h4{
+    border: 1px solid black;
+} */

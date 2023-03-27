@@ -1,0 +1,19 @@
+.about {
+    display:flex;
+    justify-content: center;
+    /* border: 10px solid green; */
+    padding-top: 60px;
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.aboutContent {
+    display: flex;
+    flex-direction: column;
+    width: 67%;
+    /* border:10px solid red; */
+}
+
+.description {
+    font-size: 29px;
+}

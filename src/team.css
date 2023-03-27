@@ -1,0 +1,15 @@
+.team {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    padding-top: 60px;
+    /* border: 10px solid yellow; */
+    
+}
+
+.teamcontent {
+    display: flex;
+    /* border:10px solid blue; */
+    width: 67%;
+}
